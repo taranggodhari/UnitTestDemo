@@ -1,0 +1,7 @@
+D:\Work Place\Centennial\Sem4\Software Testing\Tool Presentation\AkankshaBobyTarang_UnitTestingDemo\myLibrary\myLibraryUnitTest\bin\Debug\myLibraryUnitTest.dll
+D:\Work Place\Centennial\Sem4\Software Testing\Tool Presentation\AkankshaBobyTarang_UnitTestingDemo\myLibrary\myLibraryUnitTest\bin\Debug\myLibraryUnitTest.pdb
+D:\Work Place\Centennial\Sem4\Software Testing\Tool Presentation\AkankshaBobyTarang_UnitTestingDemo\myLibrary\myLibraryUnitTest\bin\Debug\myLib.dll
+D:\Work Place\Centennial\Sem4\Software Testing\Tool Presentation\AkankshaBobyTarang_UnitTestingDemo\myLibrary\myLibraryUnitTest\bin\Debug\myLib.pdb
+D:\Work Place\Centennial\Sem4\Software Testing\Tool Presentation\AkankshaBobyTarang_UnitTestingDemo\myLibrary\myLibraryUnitTest\obj\Debug\myLibraryUnitTest.csprojResolveAssemblyReference.cache
+D:\Work Place\Centennial\Sem4\Software Testing\Tool Presentation\AkankshaBobyTarang_UnitTestingDemo\myLibrary\myLibraryUnitTest\obj\Debug\myLibraryUnitTest.dll
+D:\Work Place\Centennial\Sem4\Software Testing\Tool Presentation\AkankshaBobyTarang_UnitTestingDemo\myLibrary\myLibraryUnitTest\obj\Debug\myLibraryUnitTest.pdb
