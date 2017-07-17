@@ -22,8 +22,8 @@ namespace myLibraryUnitTest
         public void PositiveScenario_ArrayStringWithSpaceTest()
         {
 
-            string expected = "Today is the wonderful day of my life";
-            string[] actualStringArray = new string[] { "Today", "is", "the", "wonderful", "day", "of", "my", "life" };
+            string expected = "Life in Colors";
+            string[] actualStringArray = new string[] { "Life", "in", "Colors" };
 
             ApplicationCodeClass target = new ApplicationCodeClass();
 
